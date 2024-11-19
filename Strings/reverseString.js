@@ -1,3 +1,4 @@
-let str = 'hi';
-const reverseString = (str) => str.split('').reverse().join('');
+let str = "hi 121";
+const reverseString = (str) => str.split("").reverse().join("");
+
 console.log(reverseString(str));
